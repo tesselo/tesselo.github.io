@@ -3,7 +3,7 @@ layout: post
 title:  "The Guts of a Startup"
 author: daniel
 categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+tags: [startup, failure, celebration]
 image: assets/images/cake-cake-knife-cutting-jam.jpg
 description: "The motivation behind our obituary blog."
 featured: true
@@ -19,5 +19,3 @@ We know that celebrating failure is in fashion and spinned the wrong way can be 
 So now that Tesselo is dead, what remains? We have decided do die with honour by cutting our guts open and spreading them for everyone to see. This page is where you can find the remains, which include as much as we have time and legal rights to share.
 
 Enjoy weeding through the remains, we hope there is something of use for you in there!
-
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
