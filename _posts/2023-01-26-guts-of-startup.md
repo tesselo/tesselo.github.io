@@ -2,8 +2,7 @@
 layout: post
 title:  "The Guts of a Startup"
 author: daniel
-categories: [ Jekyll, tutorial ]
-tags: [startup, failure, celebration]
+categories: [ startup, failure, celebration ]
 image: assets/images/cake-cake-knife-cutting-jam.jpg
 description: "The motivation behind our obituary blog."
 featured: true
