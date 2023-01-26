@@ -29,7 +29,7 @@ authors:
   daniel:
     name: Daniel
     display_name: Daniel
-    gravatar: https://avatars.githubusercontent.com/u/901647?s=96&v=4
+    gravatar: 'assets/images/daniel.png'
     web: https://github.com/yellowcap
     description: "Former CTO of Tesselo"
 
