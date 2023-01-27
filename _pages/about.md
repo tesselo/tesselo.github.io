@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website hosts the memoires of Tesselo, a newspace tech startup. When Tesselo came to an end, we decided that we will share as much of our learnings as we could. We gained many valuable insights from our journey with Tesselo. Normally, this accumulated knowledge will simply disapear. But we decided that we will make an effort to share as much information as we can. We are going to document some of the coolest modeling we have done, and publish as much code as we can on Github.</p>
+<p>This website hosts the memoires of Tesselo, a newspace tech startup. When Tesselo came to an end, we decided that we would share as much of our learnings as we could. We gained many valuable insights from our journey with Tesselo. Normally, this accumulated knowledge will simply disapear. But we decided that we will make an effort to share as much information as we can. We are going to document some of the coolest modeling we have done, and publish as much code as we can.</p>
 
 <h4>Code</h4>
 
