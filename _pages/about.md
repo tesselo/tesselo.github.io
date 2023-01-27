@@ -25,9 +25,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Spread the word</h5>
 
-<p>If you like this page, please share it to motivate other startups to do the same.</p>
+<p>If you like Tesselo's memoires, please share them to motivate other startups to do the same.</p>
+{% include share.html %}
 
-<a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{site.baseurl}}" class="btn btn-warning">Share on LinkedIn</a>
 </div>
 </div>
 </div>
