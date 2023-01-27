@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Memoirs of Tesselo
 permalink: /about
 comments: true
 ---
@@ -8,28 +8,28 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>This website hosts the memoires of Tesselo, a newspace tech startup. When Tesselo came to an end, we decided that we will share as much of our learnings as we could. We gained many valuable insights from our journey with Tesselo. Normally, this accumulated knowledge will simply disapear. But we decided that we will make an effort to share as much information as we can. We are going to document some of the coolest modeling we have done, and publish as much code as we can on Github.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<h4>Code</h4>
 
-<h4>Questions or bug reports?</h4>
+<p>We are progressively opening up our software packages. The packages are not very well documented, but may contain useful information for people in the Earth Observation and Space industry. You can consult all our open code repositories on our <a href="https://github.com/tesselo">Github organization</a>.</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h4>Questions or comments?</h4>
+
+<p>You can send us an <a href="mailto:hello@tesselo.com">email</a> or head over to <a href="https://github.com/tesselo">Github</a> and open issues.</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Spread the word</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>If you like this page, please share it to motivate other startups to do the same.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
+<a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{site.baseurl}}" class="btn btn-warning">Share on LinkedIn</a>
 </div>
 </div>
 </div>
