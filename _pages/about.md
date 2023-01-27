@@ -10,8 +10,6 @@ comments: true
 
 <p>This website hosts the memoires of Tesselo, a newspace tech startup. When Tesselo came to an end, we decided that we will share as much of our learnings as we could. We gained many valuable insights from our journey with Tesselo. Normally, this accumulated knowledge will simply disapear. But we decided that we will make an effort to share as much information as we can. We are going to document some of the coolest modeling we have done, and publish as much code as we can on Github.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-
 <h4>Code</h4>
 
 <p>We are progressively opening up our software packages. The packages are not very well documented, but may contain useful information for people in the Earth Observation and Space industry. You can consult all our open code repositories on our <a href="https://github.com/tesselo">Github organization</a>.</p>
