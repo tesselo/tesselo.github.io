@@ -2,8 +2,7 @@
 name: "Tesselo"
 title: "The Guts of Tesselo"
 description: "The remains of a newspace startup."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo-small.png'
 include: ["_pages"]
 permalink: /:title/
 
