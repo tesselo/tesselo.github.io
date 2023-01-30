@@ -1,7 +1,7 @@
 # Site
 name: "Tesselo"
 title: "The Guts of Tesselo"
-description: "The remains of a space-tech startup."
+description: "The remains of a newspace startup."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
