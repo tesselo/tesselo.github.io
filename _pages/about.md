@@ -47,11 +47,7 @@ comments: true
     <a class="btn follow" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'width=550,height=435');return false;">
         <i class="fab fa-linkedin-in"></i>
     </a>
-
 </p>
-
-
-<!-- {% include share.html %} -->
 
 </div>
 </div>
