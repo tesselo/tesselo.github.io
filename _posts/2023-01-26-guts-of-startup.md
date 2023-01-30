@@ -2,7 +2,7 @@
 layout: post
 title:  "The Guts of a Startup"
 author: daniel
-categories: [ startup, failure, celebration ]
+categories: [ failure, celebration, motivation ]
 image: assets/images/cake-cake-knife-cutting-jam.jpg
 description: "The motivation behind our obituary blog."
 featured: true
