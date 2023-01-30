@@ -31,7 +31,8 @@ authors:
     display_name: Daniel
     avatar: 'assets/images/daniel.png'
     web: https://github.com/yellowcap
-    description: "Former CTO of Tesselo"
+    twitter: https://github.com/yellowcap
+    description: "Co-Founder and CTO of Tesselo. Has helped building the tech team and developing the platform for AI on Satellite imagery used by Tesselo for its projects."
 
 # Plugins
 plugins:
