@@ -26,7 +26,7 @@ comments: true
 
 <h4>Questions or comments?</h4>
 
-<p>You can send us an <a href="mailto:hello@tesselo.com">email</a> or head over to <a href="https://github.com/tesselo">Github</a> and open issues.</p>
+<p>You can send us an <a href="mailto:hello@tesselo.com">email</a> or head over to <a href="https://github.com/tesselo/tesselo.github.io">Github</a> and open issues.</p>
 
 </div>
 
