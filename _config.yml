@@ -26,20 +26,27 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   remi:
-    name: Remi
+    name: Rémi Charpentier
     display_name: Rémi
     avatar: 'assets/images/remi.jpg'
     web: https://pt.linkedin.com/in/remicharpentier
     twitter: https://pt.linkedin.com/in/remicharpentier
     description: "Co-Founder and CEO of Tesselo. Has helped building the business side of Tesselo by turning satellite imagery and artificial intelligence into environmental and business insights. "
-
-  daniel:
-    name: Daniel
+  tam:
+    name: Daniel Wiesmann
     display_name: Daniel
-    avatar: 'assets/images/daniel.png'
+    avatar: 'assets/images/tam.png'
     web: https://github.com/yellowcap
     twitter: https://github.com/yellowcap
     description: "Co-Founder and CTO of Tesselo. Has helped building the tech team and developing the platform for AI on Satellite imagery used by Tesselo for its projects."
+  boo:
+    name: Daniel Moreno
+    display_name: Daniel
+    avatar: 'assets/images/boo.png'
+    web: https://github.com/photonbit
+    twitter: https://github.com/photonbit
+    description: "Head of Programming and Spiritual Jouney at Tesselo. Has helped devloping the platform and increased team happiness by professionalizing our organizational structure using Kanban and beyond."
+
 
 # Plugins
 plugins:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open sourcing our team wisdom"
-author: daniel
+author: tam
 categories: [ team, bahamut, github ]
 image: assets/images/tesselo-github.png
 description: "A proposal to open source some of our codebase and our team wisdom."
