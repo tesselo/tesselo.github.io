@@ -8,4 +8,7 @@ description: "Why Tesselo did not succeed as a business, but still achieved many
 featured: true
 hidden: true
 ---
-Tesselo worked with satellites, space tech, AI, and in the cloud. So many buzz words united in one startup. How it it possible that there was no market for such a future oriented technology? This is a question we have posed ourselves many times. It is also the reason why we were so resilient and kept going for almost 7 years before deciding to stop.
+Tesselo worked with satellites, space tech, AI, and in the cloud. So many buzz words united in one startup.
+How is it possible that there was no market for such a future oriented technology?
+This is a question we have posed ourselves many times.
+It is also the reason why we were so resilient and kept going for almost 7 years before deciding to stop.
