@@ -1,0 +1,23 @@
+name: Markdown Lint
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - ready_for_review
+  push:
+    branches:
+    - master
+
+jobs:
+  mdl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+      - name: Run Markdown Lint
+        uses: actionshub/markdownlint@main
+        with:
+          path: "_posts"
