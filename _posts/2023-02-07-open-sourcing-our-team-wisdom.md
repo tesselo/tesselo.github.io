@@ -34,7 +34,7 @@ Like this the contributions will become public, but not the interaction that lea
 
 ## Publishing team agreements
 
-Througout our work we have developed interesting documents such as team agreements on how to operate.
+Throughout our work we have developed interesting documents such as team agreements on how to operate.
 These documents live on Bahamut, our shared wiki. The agreements might be relevant for our team members
 in their new contexts, and possibly other teams as well. Publishing the agreements
 will make it easier to re-use them in the future.
