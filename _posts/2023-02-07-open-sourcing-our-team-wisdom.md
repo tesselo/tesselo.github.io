@@ -32,6 +32,8 @@ and pull requests. All contributions that people made to the repository will be 
 An alternative is to create a new repository and push the code there.
 Like this the contributions will become public, but not the interaction that lead to them.
 
+To see our published repositories, head over to [Tesselo's GitHub](https://github.com/tesselo) page.
+
 ## Publishing team agreements
 
 Throughout our work we have developed interesting documents such as team agreements on how to operate.
