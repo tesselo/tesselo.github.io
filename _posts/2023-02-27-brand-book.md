@@ -3,13 +3,15 @@ layout: post
 title:  "Brand Book"
 author: tam
 categories: [ design, brand ]
-image: assets/images/brandbook/brandbook-01.png
+image: assets/images/brand-book.png
 description: "Tesselo's brand book developed by ADDB."
 featured: false
 hidden: false
 ---
 Our brandbook has been developed by [ADDB](https://www.addb.pt/). It is beautiful and
 served us well. We are happy to share it here.
+
+![Brandbook Page 2]({{ site.baseurl }}/assets/images/brandbook/brandbook-01.png)
 
 ![Brandbook Page 2]({{ site.baseurl }}/assets/images/brandbook/brandbook-02.png)
 
