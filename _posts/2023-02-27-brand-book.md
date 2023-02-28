@@ -108,5 +108,3 @@ served us well. We are happy to share it here.
 ![Brandbook Page 49]({{ site.baseurl }}/assets/images/brandbook/brandbook-49.png)
 
 ![Brandbook Page 50]({{ site.baseurl }}/assets/images/brandbook/brandbook-50.png)
-
-
