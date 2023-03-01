@@ -8,34 +8,27 @@ description: "An introduction to Tesselo's AI modeling, explaining the model typ
 featured: false
 hidden: false
 ---
-Tesselo's deep learning models are presented in this post. We have used them to
-do large scale land cover modeling across the world.
+Tesselo's most successful deep learning models are presented in this post. We have
+used them to do large scale land cover modeling across the world.
 
-We have packaged our models into a repository that makes it easy
-to use Tesselo's most common models. You can find the model references
-in our [Alquimodelia](https://github.com/tesselo/alquimodelia) repository.
+We have packaged our most common models into a repository that makes it easy
+to use them. You can find the model references in our
+[Alquimodelia](https://github.com/tesselo/alquimodelia) repository. It contains
+the detailed model definitions for our most successful models. We used Keras with a
+Tensorflow backend for our modeling, so the definitions are written in that famework.
 
-The aim of Alquimodelia was to create an user friendly and easy way to use and 
-change parameters on the common model architectures used in Tesselo. No need of any
-knowledge in keras or tensorflow, just some parameters and you had your model ready to use.
+The aim of Alquimodelia is to provide a user friendly way to use and change parameters
+on the common model architectures used in Tesselo. The model classes can be created without
+deep knowledge of keras or tensorflow. The main required parameters are the input and ouput
+shape that the models will work with. Then, Arquimodelia will construct the models accordingly.
+
+## Model types
 
 Depending on the context and the goal of the modeling, we have used a series of
 different models. They range from pixel based classifiers to time-series based
 U-Net type architectures.
 
 ## Use all bands
-
-For our modeling, we moslty used all available bands of the multispectral satellite
-images. For Sentinel-2 we used the 10 bands that have 10m or 20m resolution. Similarly,
-for Landsat we used the available bands.
-
-In our pre-processing pipeline we simply resampled all bands into the target resolution.
-Usually this meant to upsample the lower resolution bands to the resolution of the
-band with the highest resolution. That is 10m for Sentinel-2 images for instance.
-
-Or using the same approuch we would create super-resolution, by upsampling our imagery data
-to the resolution of the target data. We had successful models that would build 1m resolution
-images out of 10m resolution data.
 
 ## Classifiers
 
@@ -68,6 +61,7 @@ Used in image classification and segmentation.
 
 #### 3D U-Net
 
-The 3D U-Net architeture follows the same patterns and the 2D, but instead of two-dimensional convolutions it uses three-dimensional convolutions, multiple images across time.
+The 3D U-Net architeture follows the same patterns and the 2D, but instead of two-dimensional
+convolutions it uses three-dimensional convolutions, multiple images across time.
 The answer would still be a single image, but produced with time context.
 Great to surpass problems like clouds and other imagery artifacts.
