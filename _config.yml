@@ -29,7 +29,13 @@ authors:
     web: https://github.com/photonbit
     twitter: https://github.com/photonbit
     description: "Head of Programming and Spiritual Jouney at Tesselo. Has helped devloping the platform and increased team happiness by professionalizing our organizational structure using Kanban and beyond."
-
+  vitor:
+    name: Vitor Paixão
+    display_name: Vitor
+    avatar: 'assets/images/vitor.jpeg'
+    web: https://github.com/vitornvpaixao
+    twitter: https://github.com/vitornvpaixao
+    description: "Frontend programmer and forever learner. Has been in charge of maintaining and extending our Vue.Js app."
 
 # Plugins
 plugins:
