@@ -36,6 +36,14 @@ authors:
     web: https://github.com/vitornvpaixao
     twitter: https://github.com/vitornvpaixao
     description: "Frontend programmer and forever learner. Has been in charge of maintaining and extending our Vue.Js app."
+  joao:
+    name: João Santos
+    display_name: João
+    avatar: 'assets/images/joao.jpeg'
+    web: https://github.com/JotaFan
+    twitter: https://github.com/JotaFan
+    description: "Versatile programmer, deep learning modeling wizzard, and geospatial analyist. Has contributed to the pixels platform and executed many projects for Tesselo."
+
 
 # Plugins
 plugins:
