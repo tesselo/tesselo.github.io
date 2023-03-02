@@ -41,5 +41,5 @@ were those should not happen.
 Focus Days are not mandatory and rigid, the intent is to create a safe structure
 for people that need to focus, and that will not be reprimanded in any way for
 rejecting to have a meeting during this day. If for some reason we do not need to
-focus one Thusday, we might want to select that specific day in the calendar and
+focus one Thursday, we might want to select that specific day in the calendar and
 mark our attendance as nope.

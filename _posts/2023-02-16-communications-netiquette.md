@@ -77,7 +77,7 @@ The following policies apply
 - `prj-` channels can be muted by Tesseras that don&#39;t work on the project
 - `alert-` and `monit-` can be muted by anyone not called Daniel
 - `dev-null` should be muted by everyone that is not a robot
-- `team-` requests that adress the @channel need to be should be answered within 2 hours during working hours (see below)
+- `team-` requests that address the @channel need to be should be answered within 2 hours during working hours (see below)
 - `*-` if there is a contribution is off-topic or not in a thread when it should be,
    the post should be redirected to the relevant channel or thread
 
