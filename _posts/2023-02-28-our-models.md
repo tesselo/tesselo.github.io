@@ -30,6 +30,9 @@ U-Net type architectures.
 
 ## Use all bands
 
+The multispectral imagery allows us to get context from the various ranges of light available. This could help overcome coud coverage over a site, or could easily identify Land Uses.
+The usage of multiple bands allowed our models to freely aquire the best out of Open Data targeting the goal at hands.
+
 ## Classifiers
 
 Here we are giving a quick overview of the different model types and their use cases.
