@@ -5,7 +5,7 @@ author: remi
 categories: [ business, motivation, market ]
 image: assets/images/a-good-ending.png
 description: "Why Tesselo did not succeed as a business, but still achieved many beautiful things."
-featured: true
+featured: false
 hidden: true
 ---
 Tesselo worked with satellites, space tech, AI, and in the cloud. So many buzz words united in one startup.
